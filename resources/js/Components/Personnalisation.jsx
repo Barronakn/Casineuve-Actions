@@ -35,7 +35,7 @@ const Personnalisation = () => {
             answer: (
                 <div className="flex flex-col gap-2">
                     <p>
-                    1. Avec votre présentation ouverte, allez à "Fichier" > "Enregistrer sous".
+                    1. Avec votre présentation ouverte, allez à "Fichier" puis "Enregistrer sous".
                     </p>
                     <p>
                     2. Choisissez votre dossier de destination.
@@ -70,7 +70,7 @@ const Personnalisation = () => {
             answer :(
                 <div className="flex flex-col gap-2">
                     <p>
-                    1. Avec votre présentation ouverte, allez à "Fichier" > "Télécharger".
+                    1. Avec votre présentation ouverte, allez à "Fichier" puis "Télécharger".
                     </p>
                     <p>
                     2. Sélectionnez "Document PDF (.pdf)" dans les options disponibles.

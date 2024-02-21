@@ -1,218 +1,528 @@
 {
-  "_ApplicationLogo-8b2c13f6.js": {
-    "file": "assets/ApplicationLogo-8b2c13f6.js",
+  "_WhatsAppBtn-1b3294f9.js": {
+    "assets": [
+      "assets/favicon-d40b243e.jpg",
+      "assets/logo-21256553.png",
+      "assets/menu_icon-bac580c3.png",
+      "assets/facebook_icon-360cf994.png",
+      "assets/linkedin_icon-a58771a5.png",
+      "assets/tiktok_icon-65778612.png",
+      "assets/whatsapp_icon-7c581ab6.png"
+    ],
+    "file": "assets/WhatsAppBtn-1b3294f9.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_AuthenticatedLayout-c094a7eb.js": {
-    "file": "assets/AuthenticatedLayout-c094a7eb.js",
+  "_banner_help-430f3a78.js": {
+    "assets": [
+      "assets/banner_help-52e5fdf1.jpg"
+    ],
+    "file": "assets/banner_help-430f3a78.js"
+  },
+  "_surmesure-19fa5f46.js": {
+    "assets": [
+      "assets/surmesure-6fe797e7.jpg"
+    ],
+    "file": "assets/surmesure-19fa5f46.js"
+  },
+  "public/assets/Alpha/alpha1.jpg": {
+    "file": "assets/alpha1-67152d59.jpg",
+    "src": "public/assets/Alpha/alpha1.jpg"
+  },
+  "public/assets/Alpha/alpha2.jpg": {
+    "file": "assets/alpha2-64b39dd3.jpg",
+    "src": "public/assets/Alpha/alpha2.jpg"
+  },
+  "public/assets/Alpha/alpha3.jpg": {
+    "file": "assets/alpha3-afc177b8.jpg",
+    "src": "public/assets/Alpha/alpha3.jpg"
+  },
+  "public/assets/Alpha/alpha4.jpg": {
+    "file": "assets/alpha4-4b188718.jpg",
+    "src": "public/assets/Alpha/alpha4.jpg"
+  },
+  "public/assets/Bêta/beta1.jpg": {
+    "file": "assets/beta1-740a26cd.jpg",
+    "src": "public/assets/Bêta/beta1.jpg"
+  },
+  "public/assets/Bêta/beta2.jpg": {
+    "file": "assets/beta2-addc61ad.jpg",
+    "src": "public/assets/Bêta/beta2.jpg"
+  },
+  "public/assets/Bêta/beta3.jpg": {
+    "file": "assets/beta3-a04bc52b.jpg",
+    "src": "public/assets/Bêta/beta3.jpg"
+  },
+  "public/assets/Bêta/beta4.png": {
+    "file": "assets/beta4-1507f28f.png",
+    "src": "public/assets/Bêta/beta4.png"
+  },
+  "public/assets/Delta/delta1.jpg": {
+    "file": "assets/delta1-0bb187c0.jpg",
+    "src": "public/assets/Delta/delta1.jpg"
+  },
+  "public/assets/Delta/delta2.jpg": {
+    "file": "assets/delta2-c85c6f02.jpg",
+    "src": "public/assets/Delta/delta2.jpg"
+  },
+  "public/assets/Delta/delta3.jpg": {
+    "file": "assets/delta3-4b388b0a.jpg",
+    "src": "public/assets/Delta/delta3.jpg"
+  },
+  "public/assets/Delta/delta4.jpg": {
+    "file": "assets/delta4-fa44f924.jpg",
+    "src": "public/assets/Delta/delta4.jpg"
+  },
+  "public/assets/Epsilon/epsilon1.jpg": {
+    "file": "assets/epsilon1-8fef35df.jpg",
+    "src": "public/assets/Epsilon/epsilon1.jpg"
+  },
+  "public/assets/Epsilon/epsilon2.jpg": {
+    "file": "assets/epsilon2-902202ab.jpg",
+    "src": "public/assets/Epsilon/epsilon2.jpg"
+  },
+  "public/assets/Epsilon/epsilon3.jpg": {
+    "file": "assets/epsilon3-b58f9ce5.jpg",
+    "src": "public/assets/Epsilon/epsilon3.jpg"
+  },
+  "public/assets/Epsilon/epsilon4.png": {
+    "file": "assets/epsilon4-72302f93.png",
+    "src": "public/assets/Epsilon/epsilon4.png"
+  },
+  "public/assets/Eta/eta1.jpg": {
+    "file": "assets/eta1-a95853c6.jpg",
+    "src": "public/assets/Eta/eta1.jpg"
+  },
+  "public/assets/Eta/eta2.jpg": {
+    "file": "assets/eta2-8f03e840.jpg",
+    "src": "public/assets/Eta/eta2.jpg"
+  },
+  "public/assets/Eta/eta3.jpg": {
+    "file": "assets/eta3-79b4da69.jpg",
+    "src": "public/assets/Eta/eta3.jpg"
+  },
+  "public/assets/Eta/eta4.jpg": {
+    "file": "assets/eta4-48b542f7.jpg",
+    "src": "public/assets/Eta/eta4.jpg"
+  },
+  "public/assets/Gamma/gamma1.jpg": {
+    "file": "assets/gamma1-e7f09be7.jpg",
+    "src": "public/assets/Gamma/gamma1.jpg"
+  },
+  "public/assets/Gamma/gamma2.jpg": {
+    "file": "assets/gamma2-7c839c60.jpg",
+    "src": "public/assets/Gamma/gamma2.jpg"
+  },
+  "public/assets/Gamma/gamma3.jpg": {
+    "file": "assets/gamma3-f7283838.jpg",
+    "src": "public/assets/Gamma/gamma3.jpg"
+  },
+  "public/assets/Gamma/gamma4.jpg": {
+    "file": "assets/gamma4-fa2a1fc8.jpg",
+    "src": "public/assets/Gamma/gamma4.jpg"
+  },
+  "public/assets/Iota/iota1.jpg": {
+    "file": "assets/iota1-465e3376.jpg",
+    "src": "public/assets/Iota/iota1.jpg"
+  },
+  "public/assets/Iota/iota2.jpg": {
+    "file": "assets/iota2-7333d8ac.jpg",
+    "src": "public/assets/Iota/iota2.jpg"
+  },
+  "public/assets/Iota/iota3.jpg": {
+    "file": "assets/iota3-44fb00c3.jpg",
+    "src": "public/assets/Iota/iota3.jpg"
+  },
+  "public/assets/Iota/iota4.jpg": {
+    "file": "assets/iota4-9e803d98.jpg",
+    "src": "public/assets/Iota/iota4.jpg"
+  },
+  "public/assets/Kappa/kappa1.jpg": {
+    "file": "assets/kappa1-cb177154.jpg",
+    "src": "public/assets/Kappa/kappa1.jpg"
+  },
+  "public/assets/Kappa/kappa2.jpg": {
+    "file": "assets/kappa2-76aec1cc.jpg",
+    "src": "public/assets/Kappa/kappa2.jpg"
+  },
+  "public/assets/Kappa/kappa3.jpg": {
+    "file": "assets/kappa3-b738f1f6.jpg",
+    "src": "public/assets/Kappa/kappa3.jpg"
+  },
+  "public/assets/Kappa/kappa4.jpg": {
+    "file": "assets/kappa4-cd33e7dc.jpg",
+    "src": "public/assets/Kappa/kappa4.jpg"
+  },
+  "public/assets/Lambda/lambda1.jpg": {
+    "file": "assets/lambda1-da7c138e.jpg",
+    "src": "public/assets/Lambda/lambda1.jpg"
+  },
+  "public/assets/Lambda/lambda2.jpg": {
+    "file": "assets/lambda2-bb4ba737.jpg",
+    "src": "public/assets/Lambda/lambda2.jpg"
+  },
+  "public/assets/Lambda/lambda3.jpg": {
+    "file": "assets/lambda3-ee8b5874.jpg",
+    "src": "public/assets/Lambda/lambda3.jpg"
+  },
+  "public/assets/Lambda/lambda4.jpg": {
+    "file": "assets/lambda4-ed1bed1a.jpg",
+    "src": "public/assets/Lambda/lambda4.jpg"
+  },
+  "public/assets/Mu/mu1.jpg": {
+    "file": "assets/mu1-c897963d.jpg",
+    "src": "public/assets/Mu/mu1.jpg"
+  },
+  "public/assets/Mu/mu2.jpg": {
+    "file": "assets/mu2-e8c5d1b2.jpg",
+    "src": "public/assets/Mu/mu2.jpg"
+  },
+  "public/assets/Mu/mu3.jpg": {
+    "file": "assets/mu3-d4c75ddf.jpg",
+    "src": "public/assets/Mu/mu3.jpg"
+  },
+  "public/assets/Mu/mu4.jpg": {
+    "file": "assets/mu4-836d512d.jpg",
+    "src": "public/assets/Mu/mu4.jpg"
+  },
+  "public/assets/Nu/nu1.jpg": {
+    "file": "assets/nu1-608a0a2b.jpg",
+    "src": "public/assets/Nu/nu1.jpg"
+  },
+  "public/assets/Nu/nu2.jpg": {
+    "file": "assets/nu2-8342055b.jpg",
+    "src": "public/assets/Nu/nu2.jpg"
+  },
+  "public/assets/Nu/nu3.jpg": {
+    "file": "assets/nu3-3e90c617.jpg",
+    "src": "public/assets/Nu/nu3.jpg"
+  },
+  "public/assets/Nu/nu4.jpg": {
+    "file": "assets/nu4-06f15168.jpg",
+    "src": "public/assets/Nu/nu4.jpg"
+  },
+  "public/assets/Nu/nu5.jpg": {
+    "file": "assets/nu5-17fd79f0.jpg",
+    "src": "public/assets/Nu/nu5.jpg"
+  },
+  "public/assets/Omicron/omicron.png": {
+    "file": "assets/omicron-9faa47ae.png",
+    "src": "public/assets/Omicron/omicron.png"
+  },
+  "public/assets/Omicron/omicron1.png": {
+    "file": "assets/omicron1-7dad2d2c.png",
+    "src": "public/assets/Omicron/omicron1.png"
+  },
+  "public/assets/Pi/pi1.jpg": {
+    "file": "assets/pi1-857245c4.jpg",
+    "src": "public/assets/Pi/pi1.jpg"
+  },
+  "public/assets/Pi/pi2.jpg": {
+    "file": "assets/pi2-a54588d8.jpg",
+    "src": "public/assets/Pi/pi2.jpg"
+  },
+  "public/assets/Pi/pi3.jpg": {
+    "file": "assets/pi3-fc296db4.jpg",
+    "src": "public/assets/Pi/pi3.jpg"
+  },
+  "public/assets/Pi/pi4.png": {
+    "file": "assets/pi4-67879ac1.png",
+    "src": "public/assets/Pi/pi4.png"
+  },
+  "public/assets/Rhô/rho1.png": {
+    "file": "assets/rho1-5fcca0fe.png",
+    "src": "public/assets/Rhô/rho1.png"
+  },
+  "public/assets/Rhô/rho2.png": {
+    "file": "assets/rho2-bdda1fb5.png",
+    "src": "public/assets/Rhô/rho2.png"
+  },
+  "public/assets/Rhô/rho3.png": {
+    "file": "assets/rho3-8843f52c.png",
+    "src": "public/assets/Rhô/rho3.png"
+  },
+  "public/assets/Rhô/rho4.png": {
+    "file": "assets/rho4-6df11475.png",
+    "src": "public/assets/Rhô/rho4.png"
+  },
+  "public/assets/Thêta/thêta1.jpg": {
+    "file": "assets/thêta1-f144cb43.jpg",
+    "src": "public/assets/Thêta/thêta1.jpg"
+  },
+  "public/assets/Thêta/thêta2.jpg": {
+    "file": "assets/thêta2-db59bf12.jpg",
+    "src": "public/assets/Thêta/thêta2.jpg"
+  },
+  "public/assets/Thêta/thêta3.jpg": {
+    "file": "assets/thêta3-b96f082a.jpg",
+    "src": "public/assets/Thêta/thêta3.jpg"
+  },
+  "public/assets/Thêta/thêta4.jpg": {
+    "file": "assets/thêta4-e8500e5b.jpg",
+    "src": "public/assets/Thêta/thêta4.jpg"
+  },
+  "public/assets/Xi/xi1.jpg": {
+    "file": "assets/xi1-8345ee39.jpg",
+    "src": "public/assets/Xi/xi1.jpg"
+  },
+  "public/assets/Xi/xi2.jpg": {
+    "file": "assets/xi2-6ec9fb4b.jpg",
+    "src": "public/assets/Xi/xi2.jpg"
+  },
+  "public/assets/Xi/xi4.jpg": {
+    "file": "assets/xi4-47322a2d.jpg",
+    "src": "public/assets/Xi/xi4.jpg"
+  },
+  "public/assets/Xi/xi5.jpg": {
+    "file": "assets/xi5-af115a09.jpg",
+    "src": "public/assets/Xi/xi5.jpg"
+  },
+  "public/assets/Xi/xi6.jpg": {
+    "file": "assets/xi6-c585dbae.jpg",
+    "src": "public/assets/Xi/xi6.jpg"
+  },
+  "public/assets/Zêta/zeta1.png": {
+    "file": "assets/zeta1-59b005de.png",
+    "src": "public/assets/Zêta/zeta1.png"
+  },
+  "public/assets/Zêta/zeta2.png": {
+    "file": "assets/zeta2-bf27377c.png",
+    "src": "public/assets/Zêta/zeta2.png"
+  },
+  "public/assets/Zêta/zeta3.png": {
+    "file": "assets/zeta3-af728288.png",
+    "src": "public/assets/Zêta/zeta3.png"
+  },
+  "public/assets/Zêta/zeta4.png": {
+    "file": "assets/zeta4-becc5a66.png",
+    "src": "public/assets/Zêta/zeta4.png"
+  },
+  "public/assets/avis/avis1.jpg": {
+    "file": "assets/avis1-5dc0edb0.jpg",
+    "src": "public/assets/avis/avis1.jpg"
+  },
+  "public/assets/avis/avis2.jpg": {
+    "file": "assets/avis2-8afd80d3.jpg",
+    "src": "public/assets/avis/avis2.jpg"
+  },
+  "public/assets/avis/avis3.jpg": {
+    "file": "assets/avis3-d2e94950.jpg",
+    "src": "public/assets/avis/avis3.jpg"
+  },
+  "public/assets/avis/entreprise.jpg": {
+    "file": "assets/entreprise-6f997d5f.jpg",
+    "src": "public/assets/avis/entreprise.jpg"
+  },
+  "public/assets/banner.jpg": {
+    "file": "assets/banner-502c3e39.jpg",
+    "src": "public/assets/banner.jpg"
+  },
+  "public/assets/banner_help.jpg": {
+    "file": "assets/banner_help-52e5fdf1.jpg",
+    "src": "public/assets/banner_help.jpg"
+  },
+  "public/assets/favicon.jpg": {
+    "file": "assets/favicon-d40b243e.jpg",
+    "src": "public/assets/favicon.jpg"
+  },
+  "public/assets/icon/credit-card-pay.svg": {
+    "file": "assets/credit-card-pay-9f4d8185.svg",
+    "src": "public/assets/icon/credit-card-pay.svg"
+  },
+  "public/assets/icon/pen.svg": {
+    "file": "assets/pen-b31fe025.svg",
+    "src": "public/assets/icon/pen.svg"
+  },
+  "public/assets/icon/question-circle.svg": {
+    "file": "assets/question-circle-f719447e.svg",
+    "src": "public/assets/icon/question-circle.svg"
+  },
+  "public/assets/icon/sheet.svg": {
+    "file": "assets/sheet-70633dc8.svg",
+    "src": "public/assets/icon/sheet.svg"
+  },
+  "public/assets/icon/star.svg": {
+    "file": "assets/star-f3ef8b41.svg",
+    "src": "public/assets/icon/star.svg"
+  },
+  "public/assets/icon/target.svg": {
+    "file": "assets/target-71402807.svg",
+    "src": "public/assets/icon/target.svg"
+  },
+  "public/assets/logo.png": {
+    "file": "assets/logo-21256553.png",
+    "src": "public/assets/logo.png"
+  },
+  "public/assets/menu_icon.png": {
+    "file": "assets/menu_icon-bac580c3.png",
+    "src": "public/assets/menu_icon.png"
+  },
+  "public/assets/sociaux/facebook_icon.png": {
+    "file": "assets/facebook_icon-360cf994.png",
+    "src": "public/assets/sociaux/facebook_icon.png"
+  },
+  "public/assets/sociaux/linkedin_icon.png": {
+    "file": "assets/linkedin_icon-a58771a5.png",
+    "src": "public/assets/sociaux/linkedin_icon.png"
+  },
+  "public/assets/sociaux/mail.svg": {
+    "file": "assets/mail-9d1c8b80.svg",
+    "src": "public/assets/sociaux/mail.svg"
+  },
+  "public/assets/sociaux/tiktok_icon.png": {
+    "file": "assets/tiktok_icon-65778612.png",
+    "src": "public/assets/sociaux/tiktok_icon.png"
+  },
+  "public/assets/sociaux/whatsapp_icon.png": {
+    "file": "assets/whatsapp_icon-7c581ab6.png",
+    "src": "public/assets/sociaux/whatsapp_icon.png"
+  },
+  "public/assets/surmesure.jpg": {
+    "file": "assets/surmesure-6fe797e7.jpg",
+    "src": "public/assets/surmesure.jpg"
+  },
+  "resources/js/Pages/Aide.jsx": {
+    "file": "assets/Aide-54ec4615.js",
     "imports": [
       "resources/js/app.jsx",
-      "_ApplicationLogo-8b2c13f6.js",
-      "_transition-826e8b97.js"
-    ]
-  },
-  "_GuestLayout-2d26daff.js": {
-    "file": "assets/GuestLayout-2d26daff.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_ApplicationLogo-8b2c13f6.js"
-    ]
-  },
-  "_InputLabel-6f01d0d2.js": {
-    "file": "assets/InputLabel-6f01d0d2.js",
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
-  "_PrimaryButton-42918250.js": {
-    "file": "assets/PrimaryButton-42918250.js",
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
-  "_TextInput-2facfd4a.js": {
-    "file": "assets/TextInput-2facfd4a.js",
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
-  "_transition-826e8b97.js": {
-    "file": "assets/transition-826e8b97.js",
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
-  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
-    "file": "assets/ConfirmPassword-0371c392.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_GuestLayout-2d26daff.js",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js",
-      "_ApplicationLogo-8b2c13f6.js"
+      "_banner_help-430f3a78.js",
+      "_WhatsAppBtn-1b3294f9.js"
     ],
     "isDynamicEntry": true,
-    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx"
+    "src": "resources/js/Pages/Aide.jsx"
   },
-  "resources/js/Pages/Auth/ForgotPassword.jsx": {
-    "file": "assets/ForgotPassword-7f880bee.js",
+  "resources/js/Pages/SurMesure.jsx": {
+    "assets": [
+      "assets/mail-9d1c8b80.svg"
+    ],
+    "file": "assets/SurMesure-1aa3999a.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-2d26daff.js",
-      "_TextInput-2facfd4a.js",
-      "_PrimaryButton-42918250.js",
-      "_ApplicationLogo-8b2c13f6.js"
+      "_WhatsAppBtn-1b3294f9.js",
+      "_surmesure-19fa5f46.js"
     ],
     "isDynamicEntry": true,
-    "src": "resources/js/Pages/Auth/ForgotPassword.jsx"
+    "src": "resources/js/Pages/SurMesure.jsx"
   },
-  "resources/js/Pages/Auth/Login.jsx": {
-    "file": "assets/Login-1ba2bb6e.js",
+  "resources/js/Pages/Testimonials.jsx": {
+    "assets": [
+      "assets/entreprise-6f997d5f.jpg",
+      "assets/target-71402807.svg",
+      "assets/avis1-5dc0edb0.jpg",
+      "assets/avis2-8afd80d3.jpg",
+      "assets/avis3-d2e94950.jpg",
+      "assets/star-f3ef8b41.svg"
+    ],
+    "file": "assets/Testimonials-03ad8ce0.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-2d26daff.js",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js",
-      "_ApplicationLogo-8b2c13f6.js"
+      "_banner_help-430f3a78.js",
+      "_WhatsAppBtn-1b3294f9.js"
     ],
     "isDynamicEntry": true,
-    "src": "resources/js/Pages/Auth/Login.jsx"
-  },
-  "resources/js/Pages/Auth/Register.jsx": {
-    "file": "assets/Register-83b5498c.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_GuestLayout-2d26daff.js",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js",
-      "_ApplicationLogo-8b2c13f6.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Auth/Register.jsx"
-  },
-  "resources/js/Pages/Auth/ResetPassword.jsx": {
-    "file": "assets/ResetPassword-718e8a13.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_GuestLayout-2d26daff.js",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js",
-      "_ApplicationLogo-8b2c13f6.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Auth/ResetPassword.jsx"
-  },
-  "resources/js/Pages/Auth/VerifyEmail.jsx": {
-    "file": "assets/VerifyEmail-1c4f4248.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_GuestLayout-2d26daff.js",
-      "_PrimaryButton-42918250.js",
-      "_ApplicationLogo-8b2c13f6.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Auth/VerifyEmail.jsx"
-  },
-  "resources/js/Pages/Dashboard.jsx": {
-    "file": "assets/Dashboard-e9813391.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_AuthenticatedLayout-c094a7eb.js",
-      "_ApplicationLogo-8b2c13f6.js",
-      "_transition-826e8b97.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Dashboard.jsx"
-  },
-  "resources/js/Pages/Profile/Edit.jsx": {
-    "file": "assets/Edit-8eb5c46e.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_AuthenticatedLayout-c094a7eb.js",
-      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
-      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
-      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
-      "_ApplicationLogo-8b2c13f6.js",
-      "_transition-826e8b97.js",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Profile/Edit.jsx"
-  },
-  "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx": {
-    "file": "assets/DeleteUserForm-eee13856.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_transition-826e8b97.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx"
-  },
-  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx": {
-    "file": "assets/UpdatePasswordForm-baed0a7e.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js",
-      "_transition-826e8b97.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx"
-  },
-  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx": {
-    "file": "assets/UpdateProfileInformationForm-2859f902.js",
-    "imports": [
-      "resources/js/app.jsx",
-      "_TextInput-2facfd4a.js",
-      "_InputLabel-6f01d0d2.js",
-      "_PrimaryButton-42918250.js",
-      "_transition-826e8b97.js"
-    ],
-    "isDynamicEntry": true,
-    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx"
+    "src": "resources/js/Pages/Testimonials.jsx"
   },
   "resources/js/Pages/Welcome.jsx": {
-    "file": "assets/Welcome-b23be016.js",
+    "assets": [
+      "assets/alpha1-67152d59.jpg",
+      "assets/alpha2-64b39dd3.jpg",
+      "assets/alpha3-afc177b8.jpg",
+      "assets/alpha4-4b188718.jpg",
+      "assets/sheet-70633dc8.svg",
+      "assets/pen-b31fe025.svg",
+      "assets/question-circle-f719447e.svg",
+      "assets/credit-card-pay-9f4d8185.svg",
+      "assets/beta1-740a26cd.jpg",
+      "assets/beta2-addc61ad.jpg",
+      "assets/beta3-a04bc52b.jpg",
+      "assets/beta4-1507f28f.png",
+      "assets/gamma1-e7f09be7.jpg",
+      "assets/gamma2-7c839c60.jpg",
+      "assets/gamma3-f7283838.jpg",
+      "assets/gamma4-fa2a1fc8.jpg",
+      "assets/delta1-0bb187c0.jpg",
+      "assets/delta2-c85c6f02.jpg",
+      "assets/delta3-4b388b0a.jpg",
+      "assets/delta4-fa44f924.jpg",
+      "assets/epsilon1-8fef35df.jpg",
+      "assets/epsilon2-902202ab.jpg",
+      "assets/epsilon3-b58f9ce5.jpg",
+      "assets/epsilon4-72302f93.png",
+      "assets/eta1-a95853c6.jpg",
+      "assets/eta2-8f03e840.jpg",
+      "assets/eta3-79b4da69.jpg",
+      "assets/eta4-48b542f7.jpg",
+      "assets/thêta1-f144cb43.jpg",
+      "assets/thêta2-db59bf12.jpg",
+      "assets/thêta3-b96f082a.jpg",
+      "assets/thêta4-e8500e5b.jpg",
+      "assets/iota1-465e3376.jpg",
+      "assets/iota2-7333d8ac.jpg",
+      "assets/iota3-44fb00c3.jpg",
+      "assets/iota4-9e803d98.jpg",
+      "assets/kappa1-cb177154.jpg",
+      "assets/kappa2-76aec1cc.jpg",
+      "assets/kappa3-b738f1f6.jpg",
+      "assets/kappa4-cd33e7dc.jpg",
+      "assets/lambda1-da7c138e.jpg",
+      "assets/lambda2-bb4ba737.jpg",
+      "assets/lambda3-ee8b5874.jpg",
+      "assets/lambda4-ed1bed1a.jpg",
+      "assets/mu1-c897963d.jpg",
+      "assets/mu2-e8c5d1b2.jpg",
+      "assets/mu3-d4c75ddf.jpg",
+      "assets/mu4-836d512d.jpg",
+      "assets/nu1-608a0a2b.jpg",
+      "assets/nu2-8342055b.jpg",
+      "assets/nu3-3e90c617.jpg",
+      "assets/nu4-06f15168.jpg",
+      "assets/nu5-17fd79f0.jpg",
+      "assets/xi1-8345ee39.jpg",
+      "assets/xi2-6ec9fb4b.jpg",
+      "assets/xi4-47322a2d.jpg",
+      "assets/xi5-af115a09.jpg",
+      "assets/xi6-c585dbae.jpg",
+      "assets/omicron-9faa47ae.png",
+      "assets/omicron1-7dad2d2c.png",
+      "assets/pi1-857245c4.jpg",
+      "assets/pi2-a54588d8.jpg",
+      "assets/pi3-fc296db4.jpg",
+      "assets/pi4-67879ac1.png",
+      "assets/zeta1-59b005de.png",
+      "assets/zeta2-bf27377c.png",
+      "assets/zeta3-af728288.png",
+      "assets/zeta4-becc5a66.png",
+      "assets/rho1-5fcca0fe.png",
+      "assets/rho2-bdda1fb5.png",
+      "assets/rho3-8843f52c.png",
+      "assets/rho4-6df11475.png",
+      "assets/banner-502c3e39.jpg"
+    ],
+    "file": "assets/Welcome-e7c15a2a.js",
     "imports": [
-      "resources/js/app.jsx"
+      "resources/js/app.jsx",
+      "_WhatsAppBtn-1b3294f9.js",
+      "_surmesure-19fa5f46.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Welcome.jsx"
   },
   "resources/js/app.css": {
-    "file": "assets/app-719ee526.css",
+    "file": "assets/app-7355baa6.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.jsx": {
     "css": [
-      "assets/app-719ee526.css"
+      "assets/app-7355baa6.css"
     ],
     "dynamicImports": [
-      "resources/js/Pages/Auth/ConfirmPassword.jsx",
-      "resources/js/Pages/Auth/ForgotPassword.jsx",
-      "resources/js/Pages/Auth/Login.jsx",
-      "resources/js/Pages/Auth/Register.jsx",
-      "resources/js/Pages/Auth/ResetPassword.jsx",
-      "resources/js/Pages/Auth/VerifyEmail.jsx",
-      "resources/js/Pages/Dashboard.jsx",
-      "resources/js/Pages/Profile/Edit.jsx",
-      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
-      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
-      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
+      "resources/js/Pages/Aide.jsx",
+      "resources/js/Pages/SurMesure.jsx",
+      "resources/js/Pages/Testimonials.jsx",
       "resources/js/Pages/Welcome.jsx"
     ],
-    "file": "assets/app-e69d675b.js",
+    "file": "assets/app-fb400af5.js",
     "isEntry": true,
     "src": "resources/js/app.jsx"
   }
